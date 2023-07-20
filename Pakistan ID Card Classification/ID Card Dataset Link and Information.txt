@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------
+
+# In Future Work with this Project
+
+----------------------------------------------------------------------------
+
+1) Handle the Imbalanced Dataset
+
+2) Change the Model means (Appling the Multiple Models ResNet,Inception,VGG19 etc) and select the Best Model with the base of Results.
+
+3) Apply the Hyper-Perameter Tuning and get the best Parameters of the Model
+
+4) Increase the Unseen Dataset for Testing
+
+
+----------------------------------------------------------------------------
+
+# Before Run the Cells Check the Path and Class Lables Name
+
+----------------------------------------------------------------------------
+
+# Here is the Link of Dataset Drive 
+
+https://drive.google.com/drive/folders/1mdvBACBATDY9qspsRy6ngoNqLCnAV6nQ?usp=sharing
+
